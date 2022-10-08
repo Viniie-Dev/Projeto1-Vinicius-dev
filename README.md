@@ -1,2 +1,2 @@
-# Projeto1-Vin-cius-dev
+# Projeto1-Vinicius-dev
 Tutorial de como usar o Git
